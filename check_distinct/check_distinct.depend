@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579257113 source:/home/ise/Desktop/1si19is063/check_distinct/main.c
+	<stdio.h>
+	<stdlib.h>
+
